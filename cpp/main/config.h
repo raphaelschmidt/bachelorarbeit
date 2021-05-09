@@ -1,0 +1,6 @@
+#define WIFI_SSID "ssid"
+#define WIFI_PASSWD "passwd"
+#define MQTT_URI "mqtt://81.169.182.150:1883"
+#define MQTT_TOPIC "classification"
+#define MQTT_USER "raphael"
+#define MQTT_PASS "parkplatz"
